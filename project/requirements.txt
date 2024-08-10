@@ -1,0 +1,7 @@
+pytest
+questionary
+pyfiglet
+tabulate
+sqlalchemy
+validator_collection
+colorama
